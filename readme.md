@@ -16,4 +16,4 @@ Ej: Una página que use react, instalamos react router y material UI, ambas libr
 
 Otro concepto importante son los loaders, que permiten a webpack entender archivos que no sean JS como CSS, imagenes SVG, etc. El trabajo de los loaders es convertir estos archivos en módulos de JS que pueden agregarse al grafo para eventualmente procesar el grafo y generar salidas que podamos importar en nuestro archivo HTML.
 
-En resumen el trabajo de webpack es tomar un archivo de entrada, generar un gráfo a traves de ese archivo con todas las dependencias que nuestra aplicación genera, necesita y generar una salida, esta salida son archivos estáticos que podemos usar en nuestro sitio web y que han sido optimizados y procesados para cumplir con las mejores practicas de un sitio web.
+En resumen el trabajo de webpack es tomar un archivo de entrada, generar un gráfo a traves de ese archivo con todas las dependencias que nuestra aplicación genera, necesita y generar una salida, esta salida son archivos estáticos que podemos usar en nuestro sitio web y que han sido optimizados y procesados para cumplir con las mejores practicas de un sitio web.# cody_desarrollo_avanzado
